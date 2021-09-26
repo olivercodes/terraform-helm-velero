@@ -1,0 +1,10 @@
+**/.terraform/*
+**/*.tfstate/*
+*.tfstate
+*.tfstate.*
+*.log
+*.timestamp
+override.tf
+override.tf.json
+*.tfplan
+output/*
